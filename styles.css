@@ -1,0 +1,42 @@
+div {
+    border:1px solid black;
+}
+
+    
+
+
+
+
+img {
+    width: 200px;   
+}
+.navBar{
+    display:flex;
+    justify-content:center;
+    justify-content: space-around;
+    padding: 10px;
+    border: 2px solid red;
+    border: 10px dotted yellow;
+    border: 50px groove red;
+    margin: 15px;
+}
+.navitem{
+    border: 10px solid brown;  
+    margin: 20px;
+    padding: 18px;
+    margin-top: 25px;
+    border-right: 10px solid pink;
+    border-bottom: 20px solid purple;
+    padding-left: 20px;
+    
+}
+h2{
+    color:purple;
+}
+a:hover {
+    background-color: yellow;}
+body {
+  background-image:   url("https://i.pinimg.com/736x/7f/6c/07/7f6c0738a37f3620470727b7e18f630c.jpg");
+ 
+}
+
